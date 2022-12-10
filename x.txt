@@ -1,0 +1,4 @@
+Write a program that allows you to indicate the language that you wish to learn. The
+program should allow you to say something in English, transcribe your speech to text,
+translate it to the selected language and use text-to-speech to speak the translated text
+back to you so you can hear it.
