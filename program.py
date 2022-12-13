@@ -140,7 +140,7 @@ def hangman():
         hangman()
         '''repeat the hanngman'''
 
-
+'''functions for different situation'''
 def time1():
     print("   _____ \n"
           "  |     | \n"
